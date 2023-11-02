@@ -6,3 +6,5 @@ class Teacher(models.Model):
     surname = models.CharField(max_length=50)
     birth_date = models.DateField()
     subject = models.CharField(max_length=50)
+
+dsfdsf
